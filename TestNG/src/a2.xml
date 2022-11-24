@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+    <classes>
+     <class name="multi_class.class1" />
+     <class name="multi_class.class2" />
+     <class name="multi_class.class3" />
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
